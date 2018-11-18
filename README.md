@@ -10,5 +10,6 @@
 
 -----
 (In your discord app)
+
 4. `/team -ch [channel name]` This command can do team separation when you wanna play custom match with your vc friends.
 5. `/stats [player name]` Player stats will be shown after typing it.
