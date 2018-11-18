@@ -1,3 +1,10 @@
+# lib
+ImageMagick 6.8.9-9
+
+
+# python lib 
 discord==0.0.2
 discord.py==0.16.12
 r6sapi==0.8.0
+pyocr==0.5.3
+Pillow==5.3.0
